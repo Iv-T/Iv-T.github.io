@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Liu":
+  - firstname: ["Jiayi"]
+    url: 
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Savva":
+  - firstname: ["Manolis"]
+    url: https://msavva.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Mahdavi-Amiri":
+  - firstname: ["Arash (Ali)"]
+    url: https://www.sfu.ca/~amahdavi/
+  
+"Liu":
+  - firstname: ["Shichen"]
+    url: https://shichenliu.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Zhao":
+  - firstname: ["Yajie"]
+    url: https://www.yajie-zhao.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Bolkart":
+  - firstname: ["Timo"]
+    url: "https://sites.google.com/site/bolkartt/"
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Li":
+  - firstname: ["Tianye"]
+    url: https://tianyeli.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Chen":
+  - firstname: ["Weikai"]
+    url: http://chenweikai.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Li":
+  - firstname: ["Hao"]
+    url: https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html
