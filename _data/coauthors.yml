@@ -1,7 +1,3 @@
-"Liu":
-  - firstname: ["Jiayi"]
-    url: 
-
 "Savva":
   - firstname: ["Manolis"]
     url: https://msavva.github.io/
@@ -22,10 +18,6 @@
   - firstname: ["Timo"]
     url: "https://sites.google.com/site/bolkartt/"
 
-"Li":
-  - firstname: ["Tianye"]
-    url: https://tianyeli.github.io/
-
 "Chen":
   - firstname: ["Weikai"]
     url: http://chenweikai.github.io/
@@ -33,3 +25,7 @@
 "Li":
   - firstname: ["Hao"]
     url: https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html
+
+"Li":
+  - firstname: ["Tianye"]
+    url: https://tianyeli.github.io/
