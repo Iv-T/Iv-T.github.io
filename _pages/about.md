@@ -1,26 +1,24 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: jiayeeliu at gmail dot com 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic_.jpg
+  image_circular: true # crops the image to make it circular
+  address: 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
 ---
+I am a 1st year Ph.D. student in [GrUVi Lab]() at [Simon Fraser University](https://www.sfu.ca/), co-supervised by Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Arash (Ali) Mahdavi-Amiri](https://www.sfu.ca/~amahdavi/).
+I am broadly interested in computer vision and graphics in deep learning, with specialty in neural rendering, shape analysis and generative content. 
+My research currently focus on 3D understanding and generation of interactable objects.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received my M.Sc. degree in computer science from [University of Southern California](https://www.usc.edu/), and worked as a research assistant (2020-2022) in [Vision and Graphics Lab](https://vgl.ict.usc.edu/) at [USC Institute for Creative Technology](https://ict.usc.edu/). I got my B.Eng. degree in software engineering at [Sichuan University](https://en.scu.edu.cn/) with distinction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
