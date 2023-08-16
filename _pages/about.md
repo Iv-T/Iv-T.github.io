@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 ---
-I am a 1st year Ph.D. student in [GrUVi Lab]() at [Simon Fraser University](https://www.sfu.ca/), co-supervised by Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Arash (Ali) Mahdavi-Amiri](https://www.sfu.ca/~amahdavi/).
+I am a 1st year Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca//) at [Simon Fraser University](https://www.sfu.ca/), co-supervised by Prof. [Arash (Ali) Mahdavi-Amiri](https://www.sfu.ca/~amahdavi/) and Prof. [Manolis Savva](https://msavva.github.io/).
 I am broadly interested in computer vision and graphics in deep learning, with specialty in neural rendering, shape analysis and generative content. 
 My research currently focus on 3D understanding and generation of interactable objects.
 
