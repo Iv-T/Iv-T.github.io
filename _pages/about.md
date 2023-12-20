@@ -6,7 +6,7 @@ subtitle: jiayeeliu at gmail dot com
 
 profile:
   align: right
-  image: prof_pic_.jpg
+  image: prof.jpg
   image_circular: true # crops the image to make it circular
   address: 
 
