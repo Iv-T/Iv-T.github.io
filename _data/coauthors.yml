@@ -6,31 +6,18 @@
   - firstname: ["Ali"]
     url: https://www.sfu.ca/~amahdavi/
   
-"Liu":
-  - firstname: ["Shichen"]
-    url: https://shichenliu.github.io/
-
-"Zhao":
-  - firstname: ["Yajie"]
-    url: https://www.yajie-zhao.com/
-
-"Bolkart":
-  - firstname: ["Timo"]
-    url: "https://sites.google.com/site/bolkartt/"
-
-"Chen":
-  - firstname: ["Weikai"]
-    url: http://chenweikai.github.io/
-
-"Li":
-  - firstname: ["Hao"]
-    url: https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html
-  - firstname: ["Tianye"]
-    url: https://tianyeli.github.io/
-
 "Chang":
   - firstname: ["Angel X."]
     url: https://angelxuanchang.github.io/
+  
+"Liu":
+  - firstname: ["Jiayi"]
+    url: https://sevenljy.github.io/
 
+"Pun":
+  - firstname: ["Hou In Derek"]
+    url: https://houip.github.io/
 
-
+"Wang":
+  - firstname: ["Austin X."]
+    url: https://atwang16.github.io/
