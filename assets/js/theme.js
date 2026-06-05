@@ -88,11 +88,10 @@ let transTheme = () => {
 };
 
 let initTheme = (theme) => {
+  // Default to light mode and ignore the OS color-scheme preference.
+  // Dark mode is only used if the user explicitly toggles it (persisted in localStorage).
   if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      theme = "dark";
-    }
+    theme = "light";
   }
 
   setTheme(theme);
